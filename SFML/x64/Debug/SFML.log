@@ -1,0 +1,3 @@
+﻿  SFML.cpp
+C:\Users\HP\source\repos\SFML\SFML\SFML.cpp(192,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFML.vcxproj -> C:\Users\HP\source\repos\SFML\x64\Debug\SFML.exe
